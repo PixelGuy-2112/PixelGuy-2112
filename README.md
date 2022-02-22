@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hi! I´m Pixel
-## An Enthusiastic Developer 👨‍💻
+## An Enthusiastic Developer 👨‍💻, and a gamer.
 <!--
 **PixelGuy-2112/PixelGuy-2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,10 +30,13 @@ Here are some ideas to get you started:
 ```javascript
 const pixel = {
     pronouns: "He" | "Him",
-    age: "14"
-	gamertag: "Pixel_Guy_2112" , "X3N"
-	country: "India"
+    age: "14",
+	  gamertag: "Pixel_Guy_2112" , "X3N",
+	  country: "India",
+    whatido : "Discord-Bot-Development",
+    learning: "Website-Development",
+    education: "middle-school"
 }
 ```
-## In Short: U:\Earth\India\PixelGuy2112
+## In Short: U:\Earth\India\He\PixelGuy2112
 
