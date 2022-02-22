@@ -35,5 +35,5 @@ const pixel = {
 	country: "India"
 }
 ```
-## In Short: U:\Earth\India\He\PixelGuy2112
+## In Short: U:\Earth\India\PixelGuy2112
 
